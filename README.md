@@ -1,3 +1,4 @@
+Add function for article paiment wait
 PAYDUNYA - Client PHP API
 ============================
 PAYDUNYA Client PHP
